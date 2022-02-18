@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\RomanToInt\bin\Debug\net5.0\RomanToInt.exe
+C:\Users\User\source\repos\RomanToInt\bin\Debug\net5.0\RomanToInt.deps.json
+C:\Users\User\source\repos\RomanToInt\bin\Debug\net5.0\RomanToInt.runtimeconfig.json
+C:\Users\User\source\repos\RomanToInt\bin\Debug\net5.0\RomanToInt.runtimeconfig.dev.json
+C:\Users\User\source\repos\RomanToInt\bin\Debug\net5.0\RomanToInt.dll
+C:\Users\User\source\repos\RomanToInt\bin\Debug\net5.0\ref\RomanToInt.dll
+C:\Users\User\source\repos\RomanToInt\bin\Debug\net5.0\RomanToInt.pdb
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.AssemblyInfo.cs
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.dll
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\ref\RomanToInt.dll
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.pdb
+C:\Users\User\source\repos\RomanToInt\obj\Debug\net5.0\RomanToInt.genruntimeconfig.cache
